@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# -*-coding:Utf-8 -*
+
+
+//THis function calculate the value function of each candidated map in every round
+
+import rospy
+
+def simple_exploration(maps, current_maps, particlecloud):
+    for
+    

@@ -1,0 +1,8 @@
+threshold: -30
+reward: -30 1
+accuracy:    17/20
+
+
+threshold: -50
+reward: -30 1
+accuracy: 15/20
